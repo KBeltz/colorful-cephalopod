@@ -1,0 +1,32 @@
+.Header {
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Header-menu ul {
+  margin: 0;
+}
+
+
+.Header-menu li{
+  padding-left: 10px;
+  list-style-type: none;
+  display: inline-block;
+}
+
+.Header-menu li:after {
+  content: '|';
+  padding-left: 10px;
+}
+
+.Header-menu li:last-child:after {
+  content: '';
+}
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}

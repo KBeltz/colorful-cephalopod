@@ -1,0 +1,27 @@
+.Footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+
+.Footer-menu li {
+  list-style-type: none;
+  padding-left: 20px;
+  display: inline-block;
+}
+
+.Footer-menu li:first-child {
+  padding-left: 0px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: purple;
+}
+
