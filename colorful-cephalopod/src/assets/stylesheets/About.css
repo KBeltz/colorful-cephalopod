@@ -1,4 +1,6 @@
 .About {
     padding: 50px;
-    background-color: white;
+    color: white;
+    background-image: url('../images/jeremy-thomas-unsplash.jpg');
+    background-size: contain;
 }

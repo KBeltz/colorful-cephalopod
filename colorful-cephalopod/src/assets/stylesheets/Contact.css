@@ -1,4 +1,6 @@
 .Contact {
     padding: 50px;
-    background-color: green;
+    color: white;
+    background-image: url('../images/daniel-cheung-unsplash.jpg');
+    background-size: auto;
 }
