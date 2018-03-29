@@ -26,6 +26,15 @@
   content: '';
 }
 
+.Header-menu a {
+  text-decoration: none;
+}
+
+.Header-menu a:hover {
+  color: white;
+  text-decoration: none;
+}
+
 h1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;

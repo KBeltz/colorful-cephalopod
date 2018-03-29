@@ -8,9 +8,9 @@ class Header extends Component {
           <h1 className="Header-title">Kikki Beltz | Software Developer</h1>
           <h1 className="Header-menu">
             <ul>
-              <li>About</li>
-              <li>Experience</li>
-              <li>Contact</li>
+              <li><a href="#About">About</a></li>
+              <li><a href="#Experience">Experience</a></li>
+              <li><a href="#Contact">Contact</a></li>
             </ul>
           </h1>
         </header>
