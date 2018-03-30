@@ -1,4 +1,6 @@
 .Experience {
-    padding: 50px;
-    background-color: blue;
+    padding: 150px 50px;
+    background-image: url('../images/bloom-blossom-botanical.jpg');
+    background-size: 100%;
+    background-position: 100% 85%;
 }
