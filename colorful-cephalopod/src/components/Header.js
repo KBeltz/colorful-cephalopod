@@ -4,16 +4,16 @@ import '../assets/stylesheets/Header.css';
 class Header extends Component {
   render() {
     return (
-        <header className="Header">
-          <h1 className="Header-title">Kikki Beltz | Software Developer</h1>
+        <div className="Header">
+          <h1 className="Header-title"><a href="#slide-main">Kikki Beltz | Software Developer</a></h1>
           <h1 className="Header-menu">
             <ul>
-              <li><a href="#About">About</a></li>
-              <li><a href="#Experience">Experience</a></li>
-              <li><a href="#Contact">Contact</a></li>
+              <li><a href="#slide-about">About</a></li>
+              <li><a href="#slide-experience">Experience</a></li>
+              <li><a href="#slide-contact">Contact</a></li>
             </ul>
           </h1>
-        </header>
+        </div>
     );
   }
 }

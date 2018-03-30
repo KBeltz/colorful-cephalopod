@@ -1,5 +1,6 @@
 .About {
     padding: 50px;
+    min-height: 100vh;    
     color: white;
     background-image: url('../images/andrew-ridley-unsplash.jpg');
     background-size: 100%;
